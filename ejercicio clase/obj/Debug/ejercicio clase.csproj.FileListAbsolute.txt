@@ -1,0 +1,16 @@
+C:\Users\melis\source\repos\ejercicio clase\ejercicio clase\obj\Debug\ejercicio clase.csproj.AssemblyReference.cache
+C:\Users\melis\source\repos\ejercicio clase\ejercicio clase\obj\Debug\ejercicio clase.csproj.SuggestedBindingRedirects.cache
+C:\Users\melis\source\repos\ejercicio clase\ejercicio clase\obj\Debug\ejercicio clase.csproj.CoreCompileInputs.cache
+C:\Users\melis\source\repos\ejercicio clase\ejercicio clase\bin\Debug\ejercicio clase.exe.config
+C:\Users\melis\source\repos\ejercicio clase\ejercicio clase\bin\Debug\ejercicio clase.exe
+C:\Users\melis\source\repos\ejercicio clase\ejercicio clase\bin\Debug\ejercicio clase.pdb
+C:\Users\melis\source\repos\ejercicio clase\ejercicio clase\obj\Debug\ejercicio clase.exe
+C:\Users\melis\source\repos\ejercicio clase\ejercicio clase\obj\Debug\ejercicio clase.pdb
+C:\Users\Ferdy\Downloads\ejercicio clase\ejercicio clase\ejercicio clase\obj\Debug\ejercicio clase.csproj.AssemblyReference.cache
+C:\Users\Ferdy\Downloads\ejercicio clase\ejercicio clase\ejercicio clase\obj\Debug\ejercicio clase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ferdy\Downloads\ejercicio clase\ejercicio clase\ejercicio clase\obj\Debug\ejercicio clase.csproj.CoreCompileInputs.cache
+C:\Users\Ferdy\Downloads\ejercicio clase\ejercicio clase\ejercicio clase\obj\Debug\ejercicio clase.exe
+C:\Users\Ferdy\Downloads\ejercicio clase\ejercicio clase\ejercicio clase\obj\Debug\ejercicio clase.pdb
+C:\Users\Ferdy\Downloads\ejercicio clase\ejercicio clase\ejercicio clase\bin\Debug\ejercicio clase.exe.config
+C:\Users\Ferdy\Downloads\ejercicio clase\ejercicio clase\ejercicio clase\bin\Debug\ejercicio clase.exe
+C:\Users\Ferdy\Downloads\ejercicio clase\ejercicio clase\ejercicio clase\bin\Debug\ejercicio clase.pdb

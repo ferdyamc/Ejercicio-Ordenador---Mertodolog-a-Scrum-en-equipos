@@ -1,0 +1,11 @@
+Analísis de requerimiento.
+
+- Se deben crear una clase Ordenador, con tres variables que representen : el tamaño actual del disco, el tamaño maximo para el disco y el estado de encendio (encendido o apagado)
+(Tamaño disco y tamaño maximo serán de tipo entero y la varibale correspondiente al estado será de tipo booleana)
+
+- Luego, para la misma clase crear dos metodos publicos sin retorno que permitan añadir y eliminar valor a la varibale que representa el tamaño actual del disco. 
+Sin embargo, para que ambos metodos puedan realizar la operación de anexar y eliminar tamaño al disco, deben previamente validar a través de unas condicionales if, que el estado del pc este encendido.
+
+- Adicional, el metodo añadirDatos debe tener una condicional if, con la cual si el tamaño del disco supera el tamaño maximo establecido, el tamaño del disco sea igualado al tamaño maximo establecido.
+
+- El metodo EliminarDatos debe tener una condicional if, con la cual si el tamaño del disco es menor que cero, el tamaño del disco es igual a 0;

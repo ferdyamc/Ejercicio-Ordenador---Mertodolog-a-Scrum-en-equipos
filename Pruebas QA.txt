@@ -1,0 +1,9 @@
+Pruebas QA - Ejercicio Herramientas 2.
+
+- Se realizaron pruebas creando instancias de ordenadores.
+- Se asigno un valor de encendido(true o false) a la instancia creada y se valido que el valor asignado si quedara almacenado en la variable encendido.
+- se valido el llamado y funcionamiento del metodo AnadirDatos (Validamos que añadiera valor a la variable tamano_disco)
+- se valido el llamado y funcionamiento del metodo EliminarDatos (Validamos que eliminara valor a tamano_disco)
+- Cambiamos el valor de encendido a false para confirmar que los metodos anadirDatos y Eliminar Datos no aumentaran ni reduciera el valor de tamano_disco (ya que para hacerlo debe estar  encendido)
+- Validamos que el tamaño de disco no superara el tope maximó establecido, a través del método anadirDatos.
+- Validamos que a través del método EliminarDatos, el tamano del disco no pueda llegar a ser menor que 0.
